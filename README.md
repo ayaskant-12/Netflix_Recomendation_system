@@ -29,3 +29,9 @@ The optimal number of clusters is determined using the silhouette score and the 
 
 The elbow method is visualized to find the optimal number of clusters. Additionally, a scatter plot of "Rating" vs. 
 "IMDb Score" is created, with points colored by cluster membership, to observe any patterns or groupings within the data.
+
+## Follow
+
+follow me on [github](https://github.com/ayaskant-12)
+
+follow me on [instagram](https://www.instagram.com/ayaskant_dash_03/)
